@@ -1,0 +1,15 @@
+Insights
+
+Home Goods category generated highest Quantity sold.
+Some categories have high sales but low profit margins. 
+West region contributed most profit. 
+In December, Sales increased significantly. 
+In February, Sales Decline Significantly.
+
+Recommendation
+
+Increase inventory for Home Goods products due to strong demand.
+Review pricing strategies for low-margin categories.
+Focus marketing efforts in the West region to maximize profitability.
+Prepare inventory and promotions before December sales spikes.
+Investigate reasons for February sales decline and introduce seasonal campaigns.
